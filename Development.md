@@ -63,7 +63,7 @@ This is sample code for read response for after each transaction. you need to ho
 }
 ```
 
-Header Sequrity
+## Header Security
 
 ```php
  [
