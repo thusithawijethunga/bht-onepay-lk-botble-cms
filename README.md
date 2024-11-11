@@ -25,3 +25,9 @@ Access [Merchant](https://merchant-v2.onepay.lk/) account for more...
 ## Changelog
 
 Please see the [Releases](../../releases) page for more information what has changed recently.
+
+## Payment Support
+
+![OnePay LK](screenshot.png)
+
+![Payment Support](support.png)
