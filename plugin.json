@@ -1,0 +1,14 @@
+{
+    "id": "byheartlk/onepaylk",
+    "name": "onepaylk",
+    "namespace": "ByHeartLK\\OnepayLk\\",
+    "provider": "ByHeartLK\\OnepayLk\\Providers\\OnepayLkServiceProvider",
+    "author": "OnePay Sri Lanka",
+    "url": "https://www.onepay.lk/",
+    "version": "0.0.1",
+    "description": "OnePay sri lanka payment gateway integration",
+    "minimum_core_version": "7.3.0",
+    "require": [
+        "botble/payment"
+    ]
+}
