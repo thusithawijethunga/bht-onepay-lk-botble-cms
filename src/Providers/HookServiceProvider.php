@@ -24,7 +24,7 @@ class HookServiceProvider extends ServiceProvider
 
         add_filter(BASE_FILTER_ENUM_ARRAY, function ($values, $class) {
             if ($class == PaymentMethodEnum::class) {
-                $values['VITTAPAY'] = ONEPAYLK_PAYMENT_METHOD_NAME
+                $values['ONEPAYLK'] = ONEPAYLK_PAYMENT_METHOD_NAME
                 ;
             }
 
