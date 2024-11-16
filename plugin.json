@@ -1,6 +1,6 @@
 {
     "id": "byheartlk/onepaylk",
-    "name": "onepaylk",
+    "name": "OnePay Sri Lanka",
     "namespace": "ByHeartLK\\OnepayLk\\",
     "provider": "ByHeartLK\\OnepayLk\\Providers\\OnepayLkServiceProvider",
     "author": "ByHeart Sri Lanka",
